@@ -1,6 +1,8 @@
-First Functions of A Windows OS
+Functions of A Windows OS
 
 Control Panel:
 Windows 10 OS features something called a Control Panel. The Control Panel is a collection of tools to help a user with different tasks on a computer.  
 You can change settings for various funtions of a computer, like for printers, video and audio, different input devices, applications, network connections and many more.
 
+Cortana:
+A so-called "virtual assistant" that helps with voice commands. It is my personal least favourite thing about Windows 10, but it is technically a feature in the loosest sense of the word. It is supposed to be able to set appointments, search things online and so other simple tasks. It is even supposed to order products on amazon. Unfortuanately, it seems that this is a feature for everyone but me. 
