@@ -1,0 +1,6 @@
+First Functions of A Windows OS
+
+Control Panel:
+Windows 10 OS features something called a Control Panel. The Control Panel is a collection of tools to help a user with different tasks on a computer.  
+You can change settings for various funtions of a computer, like for printers, video and audio, different input devices, applications, network connections and many more.
+
