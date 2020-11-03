@@ -6,3 +6,6 @@ You can change settings for various funtions of a computer, like for printers, v
 
 Cortana:
 A so-called "virtual assistant" that helps with voice commands. It is my personal least favourite thing about Windows 10, but it is technically a feature in the loosest sense of the word. It is supposed to be able to set appointments, search things online and so other simple tasks. It is even supposed to order products on amazon. Unfortuanately, it seems that this is a feature for everyone but me. 
+
+Device Manager:
+The Device Manager is a function of the Windows OS that does exactly what it sounds like: it manages Devices. Specifically, it manages the hardware devices installed on the computer. It will also allow you to update, view or uninstall different things on the computer. This is a useful feature because it lets you see what is currently connected to the computer and lets you know if everything is there. 
